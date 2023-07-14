@@ -1,1 +1,2 @@
-# my name is Roshan. S # I am a student chasing bech course at MEC # within a month I will promote to second year
+# my name is Roshan.S
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
